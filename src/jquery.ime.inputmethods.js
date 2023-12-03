@@ -650,9 +650,9 @@
 			name: 'ലിപ്യന്തരണം',
 			source: 'rules/ml/ml-transliteration.js'
 		},
-		'ml-mozhi2': {
-			name: 'മൊഴി 2',
-			source: 'rules/ml/ml-mozhi2.js'
+		'ml-mozhi1': {
+			name: 'മൊഴി 1',
+			source: 'rules/ml/ml-mozhi1.js'
 		},
 		'mn-cyrl': {
 			name: 'Кирилл',
@@ -1564,7 +1564,7 @@
 		},
 		ml: {
 			autonym: 'മലയാളം',
-			inputmethods: [ 'ml-mozhi2', 'ml-transliteration', 'ml-inscript', 'ml-inscript2' ]
+			inputmethods: [ 'ml-mozhi1', 'ml-transliteration', 'ml-inscript', 'ml-inscript2' ]
 		},
 		mn: {
 			autonym: 'Монгол',

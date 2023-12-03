@@ -1,10 +1,10 @@
 ( function ( $ ) {
 	'use strict';
 
-	var mlmozhi2 = {
-		id: 'ml-mozhi2',
-		name: 'ലിപ്യന്തരണം',
-		description: 'Malayalam Mozhi 2 based input method',
+	var mlmozhi1 = {
+		id: 'ml-mozhi1',
+		name: 'മൊഴി 1',
+		description: 'Malayalam Mozhi 1 based input method',
 		date: '2023-11-30',
 		URL: 'http://github.com/wikimedia/jquery.ime',
 		author: 'Junaid P V',
@@ -336,5 +336,5 @@
 
 	};
 
-	$.ime.register( mlmozhi2 );
+	$.ime.register( mlmozhi1 );
 }( jQuery ) );
