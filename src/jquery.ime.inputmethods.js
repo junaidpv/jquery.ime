@@ -1564,7 +1564,7 @@
 		},
 		ml: {
 			autonym: 'മലയാളം',
-			inputmethods: [ 'ml-mozhi1', 'ml-transliteration', 'ml-inscript', 'ml-inscript2' ]
+			inputmethods: [ 'ml-mozhi1', 'ml-inscript2' ]
 		},
 		mn: {
 			autonym: 'Монгол',
